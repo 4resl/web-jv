@@ -1,18 +1,18 @@
 let arrStudents = [] // объявление массива
 arrStudents[0] = {
-Name : "Vadim",
-surname: "041",
+Name : "Anton",
+surname: "322",
 age : 18,
 averageBall : 7.2
 }
 arrStudents[1] = {
-Name : "Alex",
+Name : "Alexy",
 surname: "Petrov",
 age : 28,
 averageBall : 7.7
 }
 arrStudents[2] = {
-Name : "Sam",
+Name : "Sergey",
 surname: "Sidorov",
 age : 15,
 averageBall : 6.6
